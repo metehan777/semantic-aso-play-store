@@ -25,7 +25,7 @@ This script helps you evaluate the semantic relevance of your Google Play Store 
 1.  **Clone the Repository (if applicable):** If you have this script in a repository, clone it to your local machine:
 
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/metehan777/semantic-aso-play-store.git
     ```
 
 2.  **Navigate to the Directory:** Open your terminal or command prompt and navigate to the directory where you saved the script.
